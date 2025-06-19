@@ -1,0 +1,14 @@
+html {
+  scroll-behavior: smooth;
+}
+.navbar-blur {
+  backdrop-filter: blur(10px);
+  background: #1d2635;
+}
+.gradient-text {
+  background: linear-gradient(4deg, #0c0d19, #7a7d9a, #0c0d19);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  font-family: serif;
+}
