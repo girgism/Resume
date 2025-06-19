@@ -1,6 +1,6 @@
 # 🚀 Girgis Mirzek Ibrahim - Portfolio Website
 
-A modern, responsive portfolio website showcasing my skills and experience as a Senior .NET Software Developer. Built with HTML5, Tailwind CSS, and vanilla JavaScript.
+A modern, responsive portfolio website showcasing my skills and experience as a Full-Stack Software Developer. Built with HTML5, Tailwind CSS, and vanilla JavaScript.
 
 ![Portfolio Preview](https://via.placeholder.com/800x400/8B5CF6/FFFFFF?text=Portfolio+Preview)
 
