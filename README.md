@@ -2,7 +2,7 @@
 
 A modern, responsive portfolio website showcasing my skills and experience as a Full-Stack Software Developer. Built with HTML5, Tailwind CSS, and vanilla JavaScript.
 
-![Portfolio Preview](https://girgism.github.io/Resume/)
+![https://girgism.github.io/Resume/](https://girgism.github.io/Resume/)
 
 ## ✨ Features
 
