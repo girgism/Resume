@@ -2,11 +2,11 @@
 
 A modern, responsive portfolio website showcasing my skills and experience as a Full-Stack Software Developer. Built with HTML5, Tailwind CSS, and vanilla JavaScript.
 
-[https://girgism.github.io/Resume/][Preview Profile](https://girgism.github.io/Resume/)
+**⚡[Preview Profile](https://girgism.github.io/Resume/)
 
 ## ✨ Features
 
-- **🎨 Modern Design**: Trendy gradient color scheme with purple, teal, and pink accents
+- **🎨 Modern Design**: Trendy gradient color scheme 
 - **📱 Fully Responsive**: Optimized for desktop, tablet, and mobile devices
 - **🧭 Smooth Navigation**: Fixed navbar with smooth scrolling and active section highlighting
 - **⚡ Fast Loading**: Lightweight and optimized for performance
